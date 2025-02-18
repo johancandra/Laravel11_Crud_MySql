@@ -1,5 +1,4 @@
-# PHP
-# Framework: Laravel 11, DB: MySql
+# PHP, Framework: Laravel 11, DB: MySql
 
 # Create migration: php artisan make:migration create_tbl_admins --create=admins
 # Create model: php artisan make:model Admin
